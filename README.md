@@ -18,6 +18,7 @@ Contentfulfor cms (API)<br>
 
 
 ## Features
+ES6<br>
 OOP<br>
 Fetch API <br>
 Fully Responsive Layout (PC, Tablet and Mobile phone)<br>
